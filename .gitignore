@@ -1,6 +1,6 @@
 node_modules/
 dist/
-
+backup/
 # Logs
 *.log
 npm-debug.log*
